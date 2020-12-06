@@ -9,8 +9,8 @@ One of the most exciting areas in all of data science right now is wearable comp
 A full description is available [HERE](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and the dataset is downloaded from [HERE](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 ## Files in this repo:
-* `CodeBook.md` is a code book that describes my workflow for this project.
-* `run_analysis.R` is the R programming code that performs the workflow required in this project, which include: -
+* `CodeBook.md` is the code book that describes my workflow for this project.
+* `run_analysis.R` is the R programming code that performs the workflow required in this project, which includes: -
   * Merges the training and the test sets to create one data set.
   * Extracts only the measurements on the mean and standard deviation for each measurement.
   * Uses descriptive activity names to name the activities in the data set
