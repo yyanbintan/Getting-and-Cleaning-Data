@@ -1,2 +1,3 @@
-# Wearable-Computing
-Getting and cleaning data using UCI HAR Dataset (Human Activity Recognition Using Smartphones Dataset)
+# Getting and Cleaning Data
+### Getting and cleaning data using the UCI HAR Dataset
+(Human Activity Recognition Using Smartphones Dataset)
