@@ -7,7 +7,7 @@
 
 # Set working directory
 
-setwd("D:/Google Drive (tanyb@tarc.edu.my)/My Courses - Attended/Coursera/Getting and Cleaning Data/UCI HAR Dataset")
+setwd("\\Your local directory where the above file is downloaded\\")
 
 library(dplyr)
 
